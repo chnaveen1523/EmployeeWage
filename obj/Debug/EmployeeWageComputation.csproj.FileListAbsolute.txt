@@ -1,0 +1,7 @@
+C:\Users\Janardhan Chiliveri\source\repos\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\EmployeeWageComputation.csproj.AssemblyReference.cache
+C:\Users\Janardhan Chiliveri\source\repos\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\EmployeeWageComputation.csproj.CoreCompileInputs.cache
+C:\Users\Janardhan Chiliveri\source\repos\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\EmployeeWageComputation.exe.config
+C:\Users\Janardhan Chiliveri\source\repos\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\EmployeeWageComputation.exe
+C:\Users\Janardhan Chiliveri\source\repos\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\EmployeeWageComputation.pdb
+C:\Users\Janardhan Chiliveri\source\repos\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\EmployeeWageComputation.exe
+C:\Users\Janardhan Chiliveri\source\repos\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\EmployeeWageComputation.pdb
