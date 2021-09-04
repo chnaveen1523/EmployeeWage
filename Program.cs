@@ -9,15 +9,33 @@ namespace EmployeeWageComputation
     class Program
     {
         static void Main(string[] args)
-        {   // UC1 EmployeeWage
-            int IS_PRESENT = 1;
-            Random random = new Random();
-            int empCheck = random.Next(0, 2);
+        {   // UC3 EmployeeWage
+            int IS_FULL_TIME = 1;
+            int IS_PART_TIME = 2;
+            int EMP_RATE_PER_HR = 20;
 
-            if (empCheck == IS_PRESENT)
-                Console.WriteLine("Employee is Present");
+            // LOCAL VARIABLES
+            int empHrs = 0;
+            int empWage = 0;
+
+            Random random = new Random();
+            int empCheck = random.Next(0,3);
+
+            // Selection statement
+            if (empCheck == IS_FULL_TIME)
+            {
+                empHrs = 8;
+            }
+            else if (empCheck == IS_PART_TIME)
+            {
+                empHrs = 4;
+            }
             else
-                Console.WriteLine("Employee is Absent");
+            {
+                empHrs = 0;
+            }
+            empWage = EMP_RATE_PER_HR * empHrs;
+                Console.WriteLine("Daily Employee Wage is="+ empWage);
             Console.ReadLine();
         }
     }
